@@ -56,10 +56,13 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header img {
-    margin: 20px -20px 25px -20px;
-    width: 102%;
-
+.large-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
